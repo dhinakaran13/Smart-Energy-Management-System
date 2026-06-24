@@ -459,7 +459,7 @@ Smart-Energy-Management-System
 
 # 👨‍💻 Author
 
-## Dhinakaran R
+### Dhinakaran R
 
 B.E. Computer Science and Engineering<br>
 Anna University Regional Campus Madurai
