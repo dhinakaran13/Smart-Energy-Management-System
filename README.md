@@ -239,12 +239,11 @@ The model predicts whether a consumer is likely involved in electricity theft an
 
 | Metric    | Score  |
 | --------- | ------ |
-| Accuracy  | XX.XX% |
-| Precision | XX.XX% |
-| Recall    | XX.XX% |
-| F1 Score  | XX.XX% |
+| Accuracy  | 85% |
+| Precision | 87% |
+| Recall    | 32% |
+| F1 Score  | 47% |
 
-> Replace the above values with your actual model output.
 
 ---
 
@@ -420,25 +419,29 @@ Smart-Energy-Management-System
 
 ## Power Distribution Overview
 
-(Add Screenshot Here)
+<img width="1305" height="732" alt="Screenshot 2026-06-24 123829" src="https://github.com/user-attachments/assets/06fea2bd-0775-4da6-8861-fa7ad16ae5ee" />
+
 
 ---
 
 ## Outage & Infrastructure Monitoring
 
-(Add Screenshot Here)
+<img width="1296" height="728" alt="Screenshot 2026-06-24 123902" src="https://github.com/user-attachments/assets/1b14f55c-a5fb-4848-bc83-385408ea3c51" />
+
 
 ---
 
 ## Power Theft Analytics
 
-(Add Screenshot Here)
+<img width="1302" height="727" alt="Screenshot 2026-06-24 123930" src="https://github.com/user-attachments/assets/d60a7bf9-c881-4299-bc19-c730afbdb807" />
+
 
 ---
 
 ## Machine Learning Confusion Matrix
 
-(Add Screenshot Here)
+<img width="575" height="491" alt="Screenshot 2026-06-24 121636" src="https://github.com/user-attachments/assets/c63e4e3a-f2c4-44f6-ba4b-23d3a93abb8c" />
+
 
 ---
 
