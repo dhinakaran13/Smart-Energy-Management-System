@@ -384,6 +384,26 @@ The system allows manual user inputs and generates:
 
 ---
 
+# ⚙️ Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/dhinakaran13/Smart-Energy-Management-System.git
+```
+
+Navigate to the project folder:
+
+```bash
+cd Smart-Energy-Management-System
+```
+
+Install required dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
 # 📁 Repository Structure
 
 ```text
