@@ -1,5 +1,3 @@
-# Smart-Energy-Management-System
-
 # ⚡ Smart Energy Management System: Power Distribution Analytics & Theft Detection
 
 ## 📖 Project Overview
