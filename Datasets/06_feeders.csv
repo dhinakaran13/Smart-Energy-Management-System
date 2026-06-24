@@ -1,0 +1,51 @@
+Feeder_ID,Feeder_Name,Substation,Area,Capacity_MW
+FDR001,Feeder_Line_1,SS_Chennai_1,Adyar,15
+FDR002,Feeder_Line_2,SS_Madurai_2,Adyar,15
+FDR003,Feeder_Line_3,SS_Madurai_2,Velachery,5
+FDR004,Feeder_Line_4,SS_Madurai_2,Adyar,10
+FDR005,Feeder_Line_5,SS_Covai_1,Anna Nagar,10
+FDR006,Feeder_Line_6,SS_Chennai_1,Anna Nagar,5
+FDR007,Feeder_Line_7,SS_Covai_1,Velachery,10
+FDR008,Feeder_Line_8,SS_Madurai_2,Velachery,5
+FDR009,Feeder_Line_9,SS_Covai_1,Adyar,15
+FDR010,Feeder_Line_10,SS_Covai_1,Velachery,5
+FDR011,Feeder_Line_11,SS_Chennai_1,Anna Nagar,10
+FDR012,Feeder_Line_12,SS_Covai_1,Velachery,5
+FDR013,Feeder_Line_13,SS_Madurai_2,Adyar,5
+FDR014,Feeder_Line_14,SS_Covai_1,Adyar,15
+FDR015,Feeder_Line_15,SS_Chennai_1,Anna Nagar,10
+FDR016,Feeder_Line_16,SS_Chennai_1,Velachery,15
+FDR017,Feeder_Line_17,SS_Chennai_1,Velachery,15
+FDR018,Feeder_Line_18,SS_Covai_1,Adyar,10
+FDR019,Feeder_Line_19,SS_Madurai_2,Velachery,10
+FDR020,Feeder_Line_20,SS_Covai_1,Velachery,10
+FDR021,Feeder_Line_21,SS_Chennai_1,Velachery,15
+FDR022,Feeder_Line_22,SS_Covai_1,Anna Nagar,10
+FDR023,Feeder_Line_23,SS_Madurai_2,Velachery,10
+FDR024,Feeder_Line_24,SS_Chennai_1,Adyar,10
+FDR025,Feeder_Line_25,SS_Covai_1,Velachery,15
+FDR026,Feeder_Line_26,SS_Chennai_1,Anna Nagar,10
+FDR027,Feeder_Line_27,SS_Madurai_2,Adyar,15
+FDR028,Feeder_Line_28,SS_Covai_1,Adyar,10
+FDR029,Feeder_Line_29,SS_Madurai_2,Anna Nagar,10
+FDR030,Feeder_Line_30,SS_Covai_1,Anna Nagar,10
+FDR031,Feeder_Line_31,SS_Chennai_1,Velachery,10
+FDR032,Feeder_Line_32,SS_Chennai_1,Anna Nagar,15
+FDR033,Feeder_Line_33,SS_Covai_1,Anna Nagar,15
+FDR034,Feeder_Line_34,SS_Madurai_2,Velachery,5
+FDR035,Feeder_Line_35,SS_Covai_1,Adyar,10
+FDR036,Feeder_Line_36,SS_Madurai_2,Velachery,10
+FDR037,Feeder_Line_37,SS_Chennai_1,Anna Nagar,5
+FDR038,Feeder_Line_38,SS_Covai_1,Anna Nagar,10
+FDR039,Feeder_Line_39,SS_Covai_1,Adyar,15
+FDR040,Feeder_Line_40,SS_Chennai_1,Adyar,10
+FDR041,Feeder_Line_41,SS_Madurai_2,Velachery,5
+FDR042,Feeder_Line_42,SS_Covai_1,Adyar,5
+FDR043,Feeder_Line_43,SS_Madurai_2,Adyar,10
+FDR044,Feeder_Line_44,SS_Chennai_1,Anna Nagar,10
+FDR045,Feeder_Line_45,SS_Covai_1,Adyar,10
+FDR046,Feeder_Line_46,SS_Covai_1,Velachery,5
+FDR047,Feeder_Line_47,SS_Madurai_2,Velachery,10
+FDR048,Feeder_Line_48,SS_Covai_1,Anna Nagar,10
+FDR049,Feeder_Line_49,SS_Covai_1,Anna Nagar,5
+FDR050,Feeder_Line_50,SS_Covai_1,Anna Nagar,15
