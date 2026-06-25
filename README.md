@@ -14,6 +14,57 @@ This project demonstrates the integration of Python, MySQL, SQL, Power BI, and M
 
 ---
 
+## 🏗️ System Architecture
+
+The Smart Energy Management System follows a complete data pipeline that integrates Data Generation, Database Management, SQL Analytics, Business Intelligence, and Machine Learning for electricity distribution monitoring and theft detection.
+
+```text
+┌─────────────────────────┐
+│   Python Dataset        │
+│      Generator          │
+└───────────┬─────────────┘
+            │
+            ▼
+┌─────────────────────────┐
+│   8 CSV Datasets        │
+└───────────┬─────────────┘
+            │
+            ▼
+┌─────────────────────────┐
+│     MySQL Database      │
+│  Energy_Management      │
+└───────────┬─────────────┘
+            │
+            ▼
+┌─────────────────────────┐
+│      SQL Analytics      │
+└───────┬─────────┬───────┘
+        │         │
+        ▼         ▼
+
+┌─────────────────┐   ┌─────────────────┐
+│    Power BI     │   │ Machine Learning│
+│    Dashboard    │   │ Random Forest   │
+└────────┬────────┘   └────────┬────────┘
+         │                     │
+         ▼                     ▼
+
+┌─────────────────┐   ┌─────────────────┐
+│ Business KPIs   │   │ Theft Prediction│
+│ & Insights      │   │ Risk Score      │
+└─────────────────┘   └─────────────────┘
+```
+
+### Architecture Flow
+
+1. Python generates synthetic electricity datasets.
+2. Datasets are imported into MySQL.
+3. SQL queries perform analytical processing.
+4. Query outputs are connected to Power BI dashboards.
+5. Theft inspection data is used to train a Random Forest model.
+6. The model predicts potential electricity theft cases.
+7. The final system delivers business insights and theft detection analytics.
+
 # 🎯 Project Goals
 
 * Analyze electricity consumption patterns.
