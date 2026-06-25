@@ -18,7 +18,7 @@ This project demonstrates the integration of Python, MySQL, SQL, Power BI, and M
 
 The Smart Energy Management System follows a complete data pipeline that integrates Data Generation, Database Management, SQL Analytics, Business Intelligence, and Machine Learning for electricity distribution monitoring and theft detection.
 
-                                                   ```text
+```text
                                                  ┌─────────────────────────┐
                                                  │   Python Dataset        │
                                                  │      Generator          │
@@ -52,7 +52,7 @@ The Smart Energy Management System follows a complete data pipeline that integra
                                           │ Business KPIs   │   │ Theft Prediction│
                                           │ & Insights      │   │ Risk Score      │
                                           └─────────────────┘   └─────────────────┘
-                                    ```
+```
 
 ### Architecture Flow
 
