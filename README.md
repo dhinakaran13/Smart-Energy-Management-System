@@ -18,42 +18,41 @@ This project demonstrates the integration of Python, MySQL, SQL, Power BI, and M
 
 The Smart Energy Management System follows a complete data pipeline that integrates Data Generation, Database Management, SQL Analytics, Business Intelligence, and Machine Learning for electricity distribution monitoring and theft detection.
 
-```text
-┌─────────────────────────┐
-│   Python Dataset        │
-│      Generator          │
-└───────────┬─────────────┘
-            │
-            ▼
-┌─────────────────────────┐
-│   8 CSV Datasets        │
-└───────────┬─────────────┘
-            │
-            ▼
-┌─────────────────────────┐
-│     MySQL Database      │
-│  Energy_Management      │
-└───────────┬─────────────┘
-            │
-            ▼
-┌─────────────────────────┐
-│      SQL Analytics      │
-└───────┬─────────┬───────┘
-        │         │
-        ▼         ▼
+                                                   ```text
+                                                 ┌─────────────────────────┐
+                                                 │   Python Dataset        │
+                                                 │      Generator          │
+                                                 └───────────┬─────────────┘
+                                                             │
+                                                             ▼
+                                                 ┌─────────────────────────┐
+                                                 │   8 CSV Datasets        │
+                                                 └───────────┬─────────────┘
+                                                             │
+                                                             ▼
+                                                 ┌─────────────────────────┐
+                                                 │     MySQL Database      │
+                                                 │  Energy_Management      │
+                                                 └───────────┬─────────────┘
+                                                             │
+                                                             ▼
+                                                 ┌─────────────────────────┐
+                                                 │      SQL Analytics      │
+                                                 └───────┬─────────┬───────┘
+                                                         │         │
+                                                         ▼         ▼
+                                          ┌─────────────────┐   ┌─────────────────┐
+                                          │    Power BI     │   │ Machine Learning│
+                                          │    Dashboard    │   │ Random Forest   │
+                                          └────────┬────────┘   └────────┬────────┘
+                                                   │                     │
+                                                   ▼                     ▼
 
-┌─────────────────┐   ┌─────────────────┐
-│    Power BI     │   │ Machine Learning│
-│    Dashboard    │   │ Random Forest   │
-└────────┬────────┘   └────────┬────────┘
-         │                     │
-         ▼                     ▼
-
-┌─────────────────┐   ┌─────────────────┐
-│ Business KPIs   │   │ Theft Prediction│
-│ & Insights      │   │ Risk Score      │
-└─────────────────┘   └─────────────────┘
-```
+                                          ┌─────────────────┐   ┌─────────────────┐
+                                          │ Business KPIs   │   │ Theft Prediction│
+                                          │ & Insights      │   │ Risk Score      │
+                                          └─────────────────┘   └─────────────────┘
+                                    ```
 
 ### Architecture Flow
 
